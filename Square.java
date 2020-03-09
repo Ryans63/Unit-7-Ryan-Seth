@@ -8,6 +8,6 @@ public class Square extends Rectangle{
         Quadrilateral[] shapes = (new Rectangle(4, 8), new Square(s: 5));
         System.out.println(shapes[0].toString);
         System.out.println(shapes[1].toString);
-        
+
     }
 }
