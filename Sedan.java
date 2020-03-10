@@ -1,4 +1,4 @@
-public class Sedan extends Car{
+public class Sedan extends Car implements Comparable{
     public static final int numDoors = 4;
     public int MPG = 0;
 
