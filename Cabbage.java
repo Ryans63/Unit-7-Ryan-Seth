@@ -13,7 +13,7 @@ public class Cabbage extends Vegetable{
   } 
   
    public String harvest(){
-    return "Harvest after 3 months of plant"; 
+    return "Harvest after 3 months of planting"; 
   } 
   
 }
