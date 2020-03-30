@@ -15,5 +15,7 @@ public abstract class Vegetable implements Growable{
         this.setName() = name;
     }
 
-
+    public String getType(){
+        return type;
+    }
 }
